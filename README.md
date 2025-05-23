@@ -25,11 +25,10 @@ Bu proje, CENG106 kodlu Objected Oriented Programming dersi kapsamında gelişti
 
 ```bash
 javac SplashScreen.java
+```
 
 
 ---
-
-
 
 ### Katkıda Bulunanlar
 - Reyyan Temel – 21118080015  
