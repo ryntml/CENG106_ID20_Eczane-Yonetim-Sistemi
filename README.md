@@ -28,6 +28,9 @@ javac SplashScreen.java
 
 
 ---
+
+
+
 ### Katkıda Bulunanlar
 - Reyyan Temel – 21118080015  
 - Yasemin İtçüzer – 23118080601
